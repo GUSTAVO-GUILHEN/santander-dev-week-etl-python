@@ -1,1 +1,4 @@
 # santander-dev-week-etl-python
+Este projeto tem como objetivo demonstrar, de forma prática, a construção de um pipeline de dados no modelo ETL (Extração, Transformação e Carregamento), utilizando Python e Inteligência Artificial para personalizar o atendimento ao cliente. A proposta vai além da simples manipulação de dados: busca evidenciar como informações brutas podem ser coletadas de diferentes fontes (como APIs, arquivos CSV ou estruturas locais), transformadas com o apoio de modelos de IA para gerar mensagens contextualizadas e, por fim, armazenadas de maneira estruturada para uso estratégico.
+
+Ao desenvolver essa solução, o foco está em compreender o fluxo completo dos dados e como a IA pode agregar valor real ao negócio, tornando a comunicação com o cliente mais eficiente, relevante e escalável — mesmo em cenários onde fontes externas possam falhar ou estar indisponíveis.
